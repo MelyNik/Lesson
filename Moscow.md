@@ -1,6 +1,6 @@
-#Порядок и инструкция раобты в Git и Visual Studio Code
+# Порядок и инструкция работы в Git и Visual Studio Code
 
-Создаём документ
+1. Создаём документ с расширением "md" (Маркдаун)
 
 Kremlin
 The state Tretyakov Gallery
