@@ -5,6 +5,8 @@
 2. Выбрали удобный терминал работы powershell или git bash
 
 3. Ввели в терминал команду git init для инициализации
+
+4. Вводим необходимую информацию в первую строку окна маркдаун
 Kremlin
 The state Tretyakov Gallery
 Sparrow hills
