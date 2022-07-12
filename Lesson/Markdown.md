@@ -27,7 +27,7 @@
 ##  Работа с изображением
 
 Что бы вставить изображение в текст, достаточно сделать следующеее:
-![Привет, и я КОТ!](kot-koshka-kosye-glaza-golubye-vzgliad-shariki-za-roliki-obr.jpg)
+![Привет, я КОТ!](kot-koshka-kosye-glaza-golubye-vzgliad-shariki-za-roliki-obr.jpg)
 
 
 
