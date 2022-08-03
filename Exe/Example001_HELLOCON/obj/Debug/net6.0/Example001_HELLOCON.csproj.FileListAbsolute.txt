@@ -1,0 +1,15 @@
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\bin\Debug\net6.0\Example001_HELLOCON.exe
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\bin\Debug\net6.0\Example001_HELLOCON.deps.json
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\bin\Debug\net6.0\Example001_HELLOCON.runtimeconfig.json
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\bin\Debug\net6.0\Example001_HELLOCON.dll
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\bin\Debug\net6.0\Example001_HELLOCON.pdb
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\Example001_HELLOCON.csproj.AssemblyReference.cache
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\Example001_HELLOCON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\Example001_HELLOCON.AssemblyInfoInputs.cache
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\Example001_HELLOCON.AssemblyInfo.cs
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\Example001_HELLOCON.csproj.CoreCompileInputs.cache
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\Example001_HELLOCON.dll
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\refint\Example001_HELLOCON.dll
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\Example001_HELLOCON.pdb
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\Example001_HELLOCON.genruntimeconfig.cache
+C:\Новая папка\Lesson\Exe\Example001_HELLOCON\obj\Debug\net6.0\ref\Example001_HELLOCON.dll
