@@ -17,7 +17,7 @@ void PrintArray(int[] col)
     int position = 0;
     while (position < count)
     {
-        Console.WriteLine(col[position]);
+        Console.Write($" {col[position] }");
         position++;
     }
 }
@@ -39,16 +39,18 @@ int IndexOf(int[] collection, int find)
     }
     return position;
 }
+int searchableValue = 4;
+int arraySize = 10;
 
-int[] array = new int[10];
+int[] array = new int[arraySize];
 
 FillaArray(array);
 PrintArray(array);
 Console.WriteLine();               // Означает пропустить строку (т.е. вывести пустую).
 
-int pos = IndexOf(array, 3);
+int pos = IndexOf(array, searchableValue);
 
-Console.WriteLine(pos);
+Console.WriteLine($"Позиция {searchableValue} {pos}");
 
 
 
