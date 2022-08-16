@@ -64,7 +64,7 @@ string Method4(int count, string text)
 string res = Method4(10, "asdf"); // Это значит, что мы складываем текст 10 раз.
 Console.WriteLine(res);
 
-// Задача на цикл в цикле
+// Задача на цикл в цикле (таблица умножения).
 
 for (int i = 2; i <= 10; i++)
 {
