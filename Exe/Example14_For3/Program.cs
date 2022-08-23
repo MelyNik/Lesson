@@ -47,4 +47,4 @@ int[] arr = { 51, 1, 35, 42, 63, 412, 1, 2, 6, 8, 1, 54, 85, 47 };
 PrintArray(arr);
 
 FromMaximumToMinimum(arr);
-PrintArray(arr);
+PrintArray(arr);1
