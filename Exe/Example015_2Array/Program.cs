@@ -112,7 +112,7 @@ int[,] pic = new int[,]
 {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 };
 
-void PrintImage(int[,] array) // создали функцию вывода двумерного массива.
+void PrintImage(double[,] array) // создали функцию вывода двумерного массива.
 {
     for (int i = 0; i < array.GetLength(0); i++) // matrix.GetLength(0) (matrix - название массива, 
                                                            // GetLength - вывести длинну, а (0) - конкретна длина
@@ -125,7 +125,7 @@ void PrintImage(int[,] array) // создали функцию вывода дв
             //Console.Write($"{array[i, j]} ");
             if(array[i, j] == 0)
             {
-                Console.Write($" ");
+                Console.Write($" ");1
             }
             else
             {
