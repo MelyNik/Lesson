@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Exe/Example013_IntroArray4/bin/Debug/net6.0/Example013_IntroArray4.dll",
+            "program": "${workspaceFolder}/DZ/DZ19_8/bin/Debug/net6.0/DZ19_8.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Exe/Example013_IntroArray4",
+            "cwd": "${workspaceFolder}/DZ/DZ19_8",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
