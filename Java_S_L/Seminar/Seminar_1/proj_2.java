@@ -7,7 +7,7 @@ public class proj_2 {
         System.out.print("Введите имя: ");
         Scanner qwe = new Scanner(System.in);
         String name = qwe.nextLine();
-        System.out.printf("Привет, %s\n",name);
+        System.out.printf("Привет, %s\n",name); // java proj_2.java
 
     }
 }
