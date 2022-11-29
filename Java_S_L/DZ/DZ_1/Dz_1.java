@@ -1,4 +1,4 @@
-package Java_S_L.DZ;
+package Java_S_L.DZ.DZ_1;
 // Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 import java.util.Scanner;
 public class Dz_1 {
@@ -16,14 +16,15 @@ public class Dz_1 {
     static int check () {
         Scanner number = new Scanner(System.in);
         boolean flag = number.hasNextInt();
-		if (flag == true) {
-            int N = number.nextInt();
-            return N;
-		}
+		if (flag == true) 
+            {
+                int N = number.nextInt();
+                return N;
+		    }
         else{
             System.out.printf ("Ошибка ввода! Повторите! \n");
             return -1;
-		}
+		    }
     }
     static int triangular(int number) {
         int sum = 0;
